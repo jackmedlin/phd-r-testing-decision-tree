@@ -1,7 +1,7 @@
 # phd-r-testing-decision-tree
 
-```
-# Load necessary libraries
+```R
+# Load libraries
 library(tidyverse)
 library(tidymodels)
 library(janitor)
