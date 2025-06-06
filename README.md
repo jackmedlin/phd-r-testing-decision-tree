@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af26a8ff-8d47-4719-82b3-c7dbba0fa7f4)# phd-r-testing-decision-tree
+# phd-r-testing-decision-tree
 
 ```
 # Load necessary libraries
